@@ -7,6 +7,8 @@ I’m a developer driven by the passion for crafting seamless digital experience
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html5,css3,react,nextjs,tailwindcss,nodejs,express,mongodb,figma&theme=light)](https://skillicons.dev)
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh1334&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
