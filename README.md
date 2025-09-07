@@ -1,4 +1,4 @@
-# Hi 👋, I am Bhavesh Chandrakar
+# 👋Hi, I'm Bhavesh Chandrakar
 I’m a software developer driven by the passion for crafting seamless digital experiences, working across both frontend and backend to turn ideas into reality. With JavaScript and its ever-evolving ecosystem at the core of my projects, I thrive on learning, building, and sharing along the way.
 
 
