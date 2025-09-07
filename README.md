@@ -3,7 +3,7 @@ I’m a software developer driven by the passion for crafting seamless digital e
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,nextjs,tailwindcss,nodejs,express,mongodb,postgres,redis,graphql,npm,yarn,git,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,nextjs,tailwindcss,nodejs,express,mongodb,postgres,redis,graphql,npm,yarn,git,figma&theme=dark)]
 
 
 ## 🌐 Socials:
